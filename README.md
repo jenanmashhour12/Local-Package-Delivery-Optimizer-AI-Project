@@ -21,8 +21,3 @@ Euclidean Distance: Minimizes the total straight-line distance traveled from the
 Tech Stack: Python, Flask, Matplotlib, NumPy (for distance calculation).
 Algorithms: Genetic Algorithm (with Selection, Crossover, Mutation), Simulated Annealing.
 
-Ideal for learning about combinatorial optimization, heuristic search algorithms, and constraint satisfaction problems.
-
-#ArtificialIntelligence #Optimization #GeneticAlgorithm #SimulatedAnnealing #VehicleRoutingProblem #Flask #Python #OperationsResearch
-
-New chat
